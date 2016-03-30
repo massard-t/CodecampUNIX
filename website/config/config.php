@@ -8,8 +8,8 @@
 ** Started on Mon Jan 25 09:08:39 2016 MOREAU Julien
 ** Last update Mon Jan 25 09:08:39 2016 MOREAU Julien
 */
-  /*Logs bdd*/
-  $host = 'localhost';
-  $dbname = 'backito';
-	$user = 'backitoto';
-  $passwd = 'a7VSJ29umQMwHY4j';
+/*Logs bdd*/
+$host = '';
+$dbname = '';
+$user = '';
+$passwd = '';
